@@ -1,0 +1,23 @@
+.container{
+    border: 1px solid gray;
+  
+}
+.menu{
+    padding-top: 10px;
+    background-color:#ffc107;
+}
+.menu ul{
+    list-style: none;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+
+.menu .left li{
+    padding-right: 10px;
+}
+
+.menu .right li{
+    padding-left: 10px;
+}
