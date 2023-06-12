@@ -1,30 +1,44 @@
-import { Link } from "react-router-dom";
-import NavDropdown from "react-bootstrap/NavDropdown";
+import React from "react";
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHome, faShoppingCart, faUser } from "@fortawesome/free-solid-svg-icons";
+import "../styles/DefaultLayoutStyle.css"
+
 const Top = () => {
   return (
-    <div className="container menu">
-      <div className="row">
-        <div className="col-12 col-sm-8">
-          <ul className="left">
-            <li>
-              <Link to="/">HOME</Link>
-            </li>
-
-            <li> <Link to="/ao">Aos</Link></li>
-            <li><Link to="/quan">Quần</Link></li>
-            <li><Link to="/phukien">Phụ Kiện</Link></li>
-          </ul>
-        </div>
-        <div className="col-12-col-sm-4">
-          <ul className="right">
-            <li>
-              <Link to="/cart">Cart</Link>
-            </li>
-            <li><Link to="/login">Login</Link></li>
-          </ul>
-        </div>
-      </div>
-    </div>
+    <>
+      <Navbar bg="dark" variant="dark">
+        <Container>
+          <Nav className="me-auto">
+            <Nav.Link href="/home">
+              <FontAwesomeIcon icon={faHome} />
+              <span className="nav-link-text">Home</span>
+            </Nav.Link>
+            <Nav.Link href="/ao">
+              <span className="nav-link-text">Áo</span>
+            </Nav.Link>
+            <Nav.Link href="/quan">
+              <span className="nav-link-text">Quần</span>
+            </Nav.Link>
+            <Nav.Link href="/phukien">
+              <span className="nav-link-text">Phụ Kiện</span>
+            </Nav.Link>
+          </Nav>
+          <Nav className="ms-auto">
+            <Nav.Link href="/cart">
+              <FontAwesomeIcon icon={faShoppingCart} />
+              <span className="nav-link-text">Giỏ hàng</span>
+            </Nav.Link>
+            <Nav.Link href="/login">
+              <FontAwesomeIcon icon={faUser} />
+              <span className="nav-link-text">Đăng nhập</span>
+            </Nav.Link>
+          </Nav>
+        </Container>
+      </Navbar>
+    </>
   );
 };
 

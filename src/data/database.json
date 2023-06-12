@@ -1,0 +1,450 @@
+{
+  "category": [
+    { "id": 1, "name": "Á0" },
+    { "id": 2, "name": "Quan" },
+    { "id": 3, "name": "PhuKien" }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "catId": 1,
+      "name": "Áo sơ mi loại 1",
+      "price": "750.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Xanh"],
+      "img": ""
+    },
+    {
+      "id": 2,
+      "catId": 1,
+      "name": "Áo sơ mi loại 2",
+      "price": "490.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Xanh"],
+      "img": ""
+    },
+    {
+      "id": 3,
+      "catId": 1,
+      "name": "Áo sơ mi loại 3",
+      "price": "270.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Xanh"],
+      "img": ""
+    },
+    {
+      "id": 4,
+      "catId": 1,
+      "name": "Áo sơ mi loại 4",
+      "price": "190.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Xanh"],
+      "img": ""
+    },
+    {
+      "id": 5,
+      "catId": 1,
+      "name": "Áo polo loại 1",
+      "price": "600.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Đen", "Xám", "Đỏ"],
+      "img": ""
+    },
+    {
+      "id": 6,
+      "catId": 1,
+      "name": "Áo polo loại 2",
+      "price": "450.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Đen", "Xám", "Đỏ"],
+      "img": ""
+    },
+    {
+      "id": 7,
+      "catId": 1,
+      "name": "Áo polo loại 3",
+      "price": "350.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Đen", "Xám", "Đỏ"],
+      "img": ""
+    },
+    {
+      "id": 8,
+      "catId": 1,
+      "name": "Áo polo loại 4",
+      "price": "250.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Trắng", "Đen", "Xám", "Đỏ"],
+      "img": ""
+    },
+    {
+      "id": 9,
+      "catId": 1,
+      "name": "Áo khoác loại 1",
+      "price": "1.900.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi"],
+      "img": ""
+    },
+    {
+      "id": 10,
+      "catId": 1,
+      "name": "Áo khoác loại 2",
+      "price": "1.500.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi"],
+      "img": ""
+    },
+    {
+      "id": 11,
+      "catId": 1,
+      "name": "Áo khoác loại 3",
+      "price": "990.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi"],
+      "img": ""
+    },
+    {
+      "id": 12,
+      "catId": 1,
+      "name": "Áo khoác loại 4",
+      "price": "750.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi"],
+      "img": ""
+    },
+    {
+      "id": 13,
+      "catId": 1,
+      "name": "Áo len loại 1",
+      "price": "880.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 14,
+      "catId": 1,
+      "name": "Áo len loại 2",
+      "price": "650.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 15,
+      "catId": 1,
+      "name": "Áo len loại 3",
+      "price": "500.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 16,
+      "catId": 1,
+      "name": "Áo len loại 4",
+      "price": "400.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 17,
+      "catId": 1,
+      "name": "Áo thun loại 1",
+      "price": "590.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng", "Vàng"],
+      "img": ""
+    },
+    {
+      "id": 18,
+      "catId": 1,
+      "name": "Áo thun loại 2",
+      "price": "450.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng", "Vàng"],
+      "img": ""
+    },
+    {
+      "id": 19,
+      "catId": 1,
+      "name": "Áo thun loại 3",
+      "price": "370.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng", "Vàng"],
+      "img": ""
+    },
+    {
+      "id": 20,
+      "catId": 1,
+      "name": "Áo thun loại 4",
+      "price": "280.000 VNĐ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Đen", "Ghi", "Trắng", "Vàng"],
+      "img": ""
+    },
+    {
+      "id": 21,
+      "catId": 2,
+      "name": "Quần short loại 1",
+      "price": "700.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 22,
+      "catId": 2,
+      "name": "Quần short loại 2",
+      "price": "550.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 23,
+      "catId": 2,
+      "name": "Quần short loại 3",
+      "price": "470.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 24,
+      "catId": 2,
+      "name": "Quần short loại 4",
+      "price": "390.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 25,
+      "catId": 2,
+      "name": "Quần âu loại 1",
+      "price": "790.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 26,
+      "catId": 2,
+      "name": "Quần âu loại 2",
+      "price": "590.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 27,
+      "catId": 2,
+      "name": "Quần âu loại 3",
+      "price": "450.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 28,
+      "catId": 2,
+      "name": "Quần âu loại 4",
+      "price": "350.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Ghi", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 29,
+      "catId": 2,
+      "name": "Quần jean loại 1",
+      "price": "790.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Xanh", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 30,
+      "catId": 2,
+      "name": "Quần jean loại 2",
+      "price": "590.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Xanh", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 31,
+      "catId": 2,
+      "name": "Quần jean loại 3",
+      "price": "450.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Xanh", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 32,
+      "catId": 2,
+      "name": "Quần jean loại 4",
+      "price": "370.000 VNĐ",
+      "description": "",
+      "size": ["27", "28", "29", "30", "31", "32", "33"],
+      "color": ["Đen", "Xanh", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 33,
+      "catId": 3,
+      "name": "Giày da loại 1 ",
+      "price": "1.900.000 VNĐ",
+      "description": "",
+      "size": ["29", "30", "31", "32", "33", "34"],
+      "color": ["Đen"],
+      "img": ""
+    },
+    {
+      "id": 34,
+      "catId": 3,
+      "name": "Giày da loại 2 ",
+      "price": "1.500.000 VNĐ",
+      "description": "",
+      "size": ["29", "30", "31", "32", "33", "34"],
+      "color": ["Đen"],
+      "img": ""
+    },
+    {
+      "id": 35,
+      "catId": 3,
+      "name": "Giày thể thao loại 1",
+      "price": "1.900.000 VNĐ",
+      "description": "",
+      "size": ["29", "30", "31", "32", "33", "34"],
+      "color": ["Đen", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 36,
+      "catId": 3,
+      "name": "Giày thể thao loại 2",
+      "price": "1.500.000 VNĐ",
+      "description": "",
+      "size": ["29", "30", "31", "32", "33", "34"],
+      "color": ["Đen", "Trắng"],
+      "img": ""
+    },
+    {
+      "id": 37,
+      "catId": 3,
+      "name": "Ví da",
+      "price": "700.000 VNĐ",
+      "description": "",
+      "color": ["Đen", "Nâu"],
+      "img": ""
+    },
+    {
+      "id": 38,
+      "catId": 3,
+      "name": "Ví vải",
+      "price": "450.000 VNĐ",
+      "description": "",
+      "color": ["Đen", "Nâu"],
+      "img": ""
+    },
+    {
+      "id": 39,
+      "catId": 3,
+      "name": "Thắt lưng da bò",
+      "price": "700.000 VNĐ",
+      "description": "",
+      "color": ["Đen", "Nâu"],
+      "img": ""
+    },
+    {
+      "id": 40,
+      "catId": 3,
+      "name": "Thắt lưng da cá sấu",
+      "price": "900.000 VNĐ",
+      "description": "",
+      "color": ["Đen", "Nâu"],
+      "img": ""
+    },
+
+    {
+      "id": 41,
+      "catId": 3,
+      "name": "Dép adidas ",
+      "price": "890.000 VNĐ",
+      "description": "",
+      "size": ["29", "30", "31", "32", "33", "34"],
+      "color": ["Đen", "Trắng"],
+      "img": ""
+    },
+    {
+        "id": 42,
+        "catId": 3,
+        "name": "Dép tông xỏ ngón ",
+        "price": "490.000 VNĐ",
+        "description": "",
+        "size": ["29", "30", "31", "32", "33", "34"],
+        "color": ["Đen", "Trắng"],
+        "img": ""
+      },
+      {
+        "id": 43,
+        "catId": 3,
+        "name": "Kính thời trang ",
+        "price": "560.000 VNĐ",
+        "description": "",
+        "img": ""
+      },
+      {
+        "id": 44,
+        "catId": 3,
+        "name": "Kính dâm ",
+        "price": "700.000 VNĐ",
+        "description": "",
+        "img": ""
+      },
+      {
+        "id": 45,
+        "catId": 3,
+        "name": "Mũ lưỡi trai  ",
+        "price": "300.000 VNĐ",
+        "description": "",
+        "img": ""
+      }
+  ]
+}
