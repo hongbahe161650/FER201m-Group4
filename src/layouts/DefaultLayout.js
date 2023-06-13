@@ -2,13 +2,12 @@ import Banner from "../components/Banner";
 import Footer from "../components/Footer";
 import Top from "../components/Top";
 import "../styles/DefaultLayoutStyle.css";
-const DefaultLayout = ({ children }) => {
+const DefaultLayout = ({className, children }) => {
   return (
     <>
       <Top />
       <Banner />
-
-      <div>{children}</div>
+      <div className={className}>{children}</div>
       <Footer />
     </>
   );
