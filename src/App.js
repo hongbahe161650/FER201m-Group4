@@ -5,6 +5,7 @@ import Login from "./screens/Login";
 import Ao from "./screens/Ao";
 import Quan from "./screens/Quan";
 import PhuKien from "./screens/PhuKien";
+import ProductDetail from "./screens/ProductDetail";
 function App() {
   return (
 <BrowserRouter>
@@ -16,6 +17,7 @@ function App() {
   <Route path="/ao" element={<Ao/>}/>
   <Route path="/quan" element={<Quan/>}/>
   <Route path="/phukien" element={<PhuKien/>}/>
+  <Route path="/product/detail/:id" element={<ProductDetail/>}/>
 
 </Routes>
 
