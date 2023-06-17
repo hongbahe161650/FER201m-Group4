@@ -95,10 +95,10 @@ export default function Footer() {
 
             <MDBCol md="4" lg="3" xl="3" className="mx-auto mb-md-0 mb-4">
               <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
-              <p>
+              <a  href="https://www.google.com/maps/place/Tr%E1%BA%A1m+X%C4%83ng+D%E1%BA%A7u+Th%E1%BA%A1ch+H%C3%B2a+39/@21.011607,105.5158717,17z/data=!3m1!4b1!4m6!3m5!1s0x31345b9470b1cc8f:0x5dd90f9a7e60c3f4!8m2!3d21.011602!4d105.5184466!16s%2Fg%2F11f2pbbz5g?entry=ttu"> 
                 <MDBIcon icon="home" className="me-2" />
-                New York, NY 10012, US
-              </p>
+                Đến với chúng tôi
+              </a>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
                 info@example.com

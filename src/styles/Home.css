@@ -1,0 +1,25 @@
+.bestSeller{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.itemProduct{
+    width: 20%;
+    padding: 4px;
+    cursor: pointer;
+}
+
+
+
+.itemProduct img{
+    width: 100%;
+    margin-top: 4px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    
+}
+.itemProduct h5{
+    padding-top: 8px;
+}

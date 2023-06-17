@@ -16,7 +16,6 @@ function App() {
   <Route path="/ao" element={<Ao/>}/>
   <Route path="/quan" element={<Quan/>}/>
   <Route path="/phukien" element={<PhuKien/>}/>
-
 </Routes>
 
 </BrowserRouter>

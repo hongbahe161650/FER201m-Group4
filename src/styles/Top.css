@@ -1,0 +1,88 @@
+
+img{
+  margin-left: 15px;
+  width: 100px;
+  object-fit: cover;
+
+}
+.ao,.quan,.phukien{
+  border: 2px solid transparent;
+  background-color: transparent;
+  color: black;
+  outline: none;
+  padding: 2px 3px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+ul{
+  list-style-type: none;
+}
+.ao{
+  position: relative;
+
+}
+
+.navbar> li{
+  display: inline-block;
+}
+
+.aoMenu{
+  position: absolute;
+  background-color: #fff;
+   display: none;
+   margin-top: 4px;
+   z-index: 2;
+   padding: 12px 4px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.aoMenu li{
+  display: flex;
+  justify-content: left;
+  padding: 2px 8px;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 8px;
+}
+.aoMenu li:hover{
+  background-color: #ccc;
+}
+ul li:hover .aoMenu{
+  display: block;
+  text-align: center;
+  transition: .4s;
+
+}
+.quan{
+  position: relative;
+}
+
+
+.ao:hover,.quan:hover,.phukien:hover{
+    border-bottom: 2px solid black;
+    transition: .4s;
+    transform: scale(1.05);
+    background-color: white;
+}
+.aoOption{
+  position: absolute;
+  background-color: #fff;
+  text-decoration: none;
+  line-height: 40px;
+
+}
+.outletStore{
+  position: relative;
+  border: 2px solid transparent;
+  background-color: transparent;
+  color: rgb(214, 42, 42);
+  outline: none;
+  padding: 2px 3px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+
