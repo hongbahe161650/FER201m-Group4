@@ -58,7 +58,7 @@ const Cart = () => {
               <th>CatID</th>
               <th>Name</th>
               <th>Price</th>
-              <th>Date</th>
+          
               <th>IMG</th>
             </tr>
           </thead>
@@ -69,7 +69,7 @@ const Cart = () => {
                 <td>{p.catId}</td>
                 <td>{p.name}</td>
                 <td>{p.price}</td>
-                <td>{p.date}</td>
+                
                 <td>{p.img}</td>
               </tr>
             ))}
