@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .container {
   /* border: 1px solid gray; */
@@ -55,6 +56,65 @@
 }
 
 .button-style {
+=======
+/* container */
+.container{
+    border: 1px solid gray;
+  
+}
+/* header Top */
+
+.container.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+  }
+  
+  .container.top .row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .container.top .row .ms-auto {
+    margin-left: auto;
+  }
+  
+  .container.top .row .nav-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .container.top .row .nav-link-icon {
+    margin-right: 5px;
+  }
+  
+  .container.top .row .nav-link-text {
+    font-weight: bold;
+  }
+  
+  .container.top .row .nav-link:hover {
+    color: #007bff;
+  }
+  
+/* product */
+.Product-content {
+  padding-top: 50px;
+  display: flex;
+  margin-left: 20px;
+}
+.Product-content h2 {
+    margin-right: 20px; /* Khoảng cách phía dưới thẻ h2 */
+  }
+.Product-content button {
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
   background-color: #e3ede4; /* Màu nền */
   border: none; /* Không có viền */
   color: rgb(0, 0, 0); /* Màu chữ */
@@ -64,11 +124,16 @@
   text-decoration: none; /* Bỏ gạch chân nút */
   display: inline-block;
   font-size: 16px; /* Cỡ chữ */
+<<<<<<< HEAD
   margin: 30px 7px; /* Khoảng cách giữa các nút */
+=======
+  margin: 4px 2px; /* Khoảng cách giữa các nút */
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
   cursor: pointer;
   border-radius: 70px; /* Độ cong của viền */
 }
 
+<<<<<<< HEAD
 .button-style:hover {
   background-color: #474747; /* Màu nền khi di chuột qua */
 }
@@ -235,3 +300,17 @@ ul.select_product_size {
 .check_out_cart:hover {
   opacity: 0.8;
 }
+=======
+.Product-content button:hover {
+  background-color: #474747; /* Màu nền khi di chuột qua */
+}
+.card-content{
+margin-left: 10px;
+margin-bottom: 50px;
+
+}
+
+
+
+
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b

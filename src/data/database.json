@@ -10,9 +10,15 @@
       "catId": 1,
       "name": "Áo sơ mi dài tay ALS22502",
       "price": "850.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit THIẾT KẾ: \n- Áo sơ mi dài tay phom Slim Fit ôm nhẹ vừa vặn mà vẫn thoải mái vận động. \n- Áo thiết kế đơn giản, tà lượn không túi, gam màu trắng đơn giản nhưng tinh tế, ấn tượng khi in họa tiết chữ cái tự hào thương hiệu, mang đến phong cách thời thượng và lịch lãm cho các quý ông. CHẤT LIỆU: \n- 50% Bamboo, 50% Polyester",
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Trắng in chữ"],
+=======
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": [],
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "img": "/assets/ao/ALS22502.jpg",
       "blurImg": "/assets/blurImg/ALS22502.jpg"
     },
@@ -21,9 +27,15 @@
       "catId": 1,
       "name": "Áo sơ mi dài tay ALS01103",
       "price": "950.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Dáng ôm / Slim fit \nTHIẾT KẾ: \n- Áo sơ mi dài tay phom Slim fit ôm vừa mang lại vẻ ngoài lịch lãm cho quý ông. \n- Áo thiết kế tà bằng, không túi. Gam màu xanh tím than kẻ trắng trẻ trung nam tính, dễ kết hợp trang phục. \nCHẤT LIỆU: \n- 50% Modal từ sợi sồi thiên nhiên cho bề mặt vải mềm mại, nhẹ và thoáng khí. \n- 50% Polyester giúp áo bền màu, sắc nét và độ trơn trượt, mỏng nhẹ.",
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Xanh tím than kẻ trắng"],
+=======
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": [],
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "img": "/assets/ao/ALS01103.jpg",
       "blurImg": "/assets/blurImg/ALS01103.jpg"
     },
@@ -32,9 +44,15 @@
       "catId": 1,
       "name": "Áo sơ mi ngắn tay ASSR29",
       "price": "750.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ: \n- Áo sơ mi ngắn tay phom Slim Fit ôm nhẹ vừa vặn mà vẫn thoải mái vận động. \n- Áo thiết kế đơn giản, tà lượn không túi, cùng màu trắng đơn giản nhưng tinh tế, ấn tượng, mang đến phong cách thời thượng và lịch lãm cho các quý ông. \nCHẤT LIỆU: \n- 27% Modal từ sợi sồi thiên nhiên cho bề mặt vải mềm mại, nhẹ và thoáng khí. \n- 70% Polyester giúp áo bền màu, sắc nét và độ trơn trượt, mỏng nhẹ. \n- 3% Spandex tạo độ co giãn thoải mái khi mặc.",
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Trắng 6"],
+=======
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": [],
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "img": "/assets/ao/ASSR29.jpg",
       "blurImg": "/assets/blurImg/ASSR29.jpg"
     },
@@ -43,7 +61,11 @@
       "catId": 1,
       "name": "Áo sơ mi ngắn ASS049S3",
       "price": "850.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Dáng ôm / Slim fit \nTHIẾT KẾ: \n- Áo sơ mi ngắn tay phom Slim fit ôm vừa mang lại vẻ ngoài lịch lãm cho quý ông. \n- Áo thiết kế tà bằng, không túi. Gam màu xanh tím than kẻ trắng trẻ trung nam tính, dễ kết hợp trang phục. \nCHẤT LIỆU: \n- 50% Modal từ sợi sồi thiên nhiên cho bề mặt vải mềm mại, nhẹ và thoáng khí. \n- 50% Polyester giúp áo bền màu, sắc nét và độ trơn trượt, mỏng nhẹ.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Trắng", "Xanh Tím Than Kẻ Trắng"],
       "img": "/assets/ao/ASS049S3.jpg",
@@ -54,7 +76,11 @@
       "catId": 1,
       "name": "Áo polo nam ngắn tay APS037S3",
       "price": "695.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Perfect Fit \nTHIẾT KẾ: \n- Áo sơ mi ngắn tay phom Perfect Fit suông rộng mặc thả ngoài mà vẫn đảm bảo độ lịch sự chỉn chu cho người mặc. \n- Thiết kế basic với tà bằng thoải mái. Cổ áo đứng lịch sự cùng túi ngực tiện lợi. Họa tiết xanh kẻ trắng lịch lãm, thời thượng tạo nên dấu ấn thanh lịch cho quý ông. \nCHẤT LIỆU: \n- 23% Modal từ sợi sồi thiên nhiên cho bề mặt vải mềm mại, nhẹ và thoáng khí. \n- 77% Polyester giúp áo bền màu, sắc nét và độ trơn trượt, mỏng nhẹ.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Cam", "Đen", "Vàng", "Xanh"],
       "img": "/assets/ao/APS037S3.jpg",
@@ -65,8 +91,35 @@
       "catId": 1,
       "name": "Áo polo nam có cổ ngắn tay APS064S3",
       "price": "695.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Perfect Fit \nTHIẾT KẾ: \n- Áo sơ mi ngắn tay phom Perfect Fit suông rộng mặc thả ngoài mà vẫn đảm bảo độ lịch sự chỉn chu cho người mặc. \n- Thiết kế basic với tà bằng thoải mái. Cổ áo đứng lịch sự cùng túi ngực tiện lợi. Họa tiết xanh kẻ trắng lịch lãm, thời thượng tạo nên dấu ấn thanh lịch cho quý ông. \nCHẤT LIỆU: \n- 23% Modal từ sợi sồi thiên nhiên cho bề mặt vải mềm mại, nhẹ và thoáng khí. \n- 77% Polyester giúp áo bền màu, sắc nét và độ trơn trượt, mỏng nhẹ. ",
       "size": ["S", "M", "L", "XL", "XXL"],
+=======
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Xanh Cổ Vịt", "Đen", "Be", "Xanh Rêu"],
+      "img": "/assets/ao/APS064S3.jpg",
+      "blurImg": "/assets/blurImg/APS064S3.jpg"
+    },
+    {
+      "id": 7,
+      "catId": 1,
+      "name": "Áo polo nam có cổ ngắn tay APS115S3",
+      "price": "650.000đ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+      "color": ["Hồng", "Xanh Tím Than", "Xanh Lá"],
+      "img": "/assets/ao/APS115S3.jpg",
+      "blurImg": "/assets/blurImg/APS115S3.jpg"
+    },
+    {
+      "id": 8,
+      "catId": 1,
+      "name": "Áo polo nam có cổ ngắn tay APS038S3",
+      "price": "595.000đ",
+      "description": "",
+      "size": ["S", "M", "L", "XL", "XXL"],
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Be", "Xanh Tím Than"],
       "img": "/assets/ao/APS038S3.jpg",
       "blurImg": "/assets/blurImg/APS038S3.jpg"
@@ -76,7 +129,11 @@
       "catId": 1,
       "name": "Áo khoác 2 lớp AJK028W2",
       "price": "1.950.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo khoác gió 2 lớp nam phom Regular Fit suông nhẹ, dễ mặc hợp với nhiều dáng người khác nhau. \n- Thiết kế khỏe khoắn với cổ bomber trẻ trung, tay và gấu áo bo rib khỏe khoắn đem đến diện mạo lịch lãm, trẻ trung cho quý ông. \nCHẤT LIỆU: \n- 87% Polyester cho bề mặt vải bóng mịn, sắc nét, ít nhăn co. \n- 10% Nylon cho bề mặt vải độ mịn mượt, mỏng nhẹ \n- 3% Spandex tạo độ co giãn, thoải mái khi cử động.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi", "Xanh Lá"],
       "img": "/assets/ao/AJK028W2.jpg",
@@ -87,7 +144,11 @@
       "catId": 1,
       "name": "Áo khoác bông AJK026W2",
       "price": "1.900.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo khoác chần bông phom Regular Fit suông nhẹ, giữ ấm tuyệt đối, phù hợp với nhiều dáng người. \n- Áo thiết kế cổ đức, đuôi tôm, tay áo có cúc bấm, cùng túi khóa tiện lợi, đem lại vẻ ngoài khỏe khoắn và nam tính cho người mặc. \nCHẤT LIỆU: \n- 100% Polyester mang đến bộ bóng sắc nét, bền màu, khả năng chống bám bụi, chống nhăn và chống thấm nước.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi"],
       "img": "/assets/ao/AJK026W2.jpg",
@@ -98,7 +159,11 @@
       "catId": 1,
       "name": "Áo khoác 2 lớp AJK035W2",
       "price": "1.750.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo khoác gió 2 lớp nam phom Regular Fit suông nhẹ, dễ mặc hợp với nhiều dáng người khác nhau. \n- Thiết kế khỏe khoắn với cổ bomber trẻ trung, tay và gấu áo bo rib khỏe khoắn đem đến diện mạo lịch lãm, trẻ trung cho quý ông. \nCHẤT LIỆU: \n- 87% Polyester cho bề mặt vải bóng mịn, sắc nét, ít nhăn co. \n- 10% Nylon cho bề mặt vải độ mịn mượt, mỏng nhẹ \n- 3% Spandex tạo độ co giãn, thoải mái khi cử động.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Be", "Đen", "Ghi"],
       "img": "/assets/ao/AJK035W2.jpg",
@@ -109,7 +174,11 @@
       "catId": 1,
       "name": "Áo khoác 2 lớp AJK029W2",
       "price": "1.950.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo khoác gió 2 lớp nam phom Regular Fit suông nhẹ, dễ mặc hợp với nhiều dáng người khác nhau. \n- Thiết kế khỏe khoắn với cổ bomber trẻ trung, tay và gấu áo bo rib khỏe khoắn đem đến diện mạo lịch lãm, trẻ trung cho quý ông. \nCHẤT LIỆU: \n- 87% Polyester cho bề mặt vải bóng mịn, sắc nét, ít nhăn co. \n- 10% Nylon cho bề mặt vải độ mịn mượt, mỏng nhẹ \n- 3% Spandex tạo độ co giãn, thoải mái khi cử động.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Nâu", "Đen", "Ghi"],
       "img": "/assets/ao/AJK029W2.jpg",
@@ -120,7 +189,11 @@
       "catId": 1,
       "name": "Áo len AWO004W2",
       "price": "850.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo len nam phom Regular Fit suông nhẹ, vừa vặn với cơ thể, đem lại cảm giác thoải mái, tự do khi mặc. \n- Áo thiết kế cổ tròn basic, dệt hình thoi thời thượng, màu sắc đa dạng, đem đến nhiều lựa chọn kết hợp trang phục khác nhau. \nCHẤT LIỆU: \n- 55% Acrylic đem tới sự ấm áp tuyệt vời đồng thời vẫn có bề mặt vải êm nhẹ. \n- 45% Cotton giúp áo mềm mại, xốp nhẹ và thoáng khí.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Xanh Tím Than", "Nâu"],
       "img": "/assets/ao/AWO004W2.jpg",
@@ -131,7 +204,11 @@
       "catId": 1,
       "name": "Áo len nam AWO001W2",
       "price": "850.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo len nam phom Regular Fit suông nhẹ, vừa vặn với cơ thể, đem lại cảm giác thoải mái, tự do khi mặc. \n- Áo thiết kế cổ tròn basic, dệt hình thoi thời thượng, màu sắc đa dạng, đem đến nhiều lựa chọn kết hợp trang phục khác nhau. \nCHẤT LIỆU: \n- 55% Acrylic đem tới sự ấm áp tuyệt vời đồng thời vẫn có bề mặt vải êm nhẹ. \n- 45% Cotton giúp áo mềm mại, xốp nhẹ và thoáng khí.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi", "Xanh Tím Than"],
       "img": "/assets/ao/AWO001W2.jpg",
@@ -142,7 +219,11 @@
       "catId": 1,
       "name": "Áo len nam AWOR01",
       "price": "650.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo len nam phom Regular Fit suông nhẹ, vừa vặn với cơ thể, đem lại cảm giác thoải mái, tự do khi mặc. \n- Áo thiết kế cổ tròn basic, dệt hình thoi thời thượng, màu sắc đa dạng, đem đến nhiều lựa chọn kết hợp trang phục khác nhau. \nCHẤT LIỆU: \n- 55% Acrylic đem tới sự ấm áp tuyệt vời đồng thời vẫn có bề mặt vải êm nhẹ. \n- 45% Cotton giúp áo mềm mại, xốp nhẹ và thoáng khí.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi", "Xanh Tím Than"],
       "img": "/assets/ao/AWOR01.jpg",
@@ -153,7 +234,11 @@
       "catId": 1,
       "name": "Áo len nam AWO005W1",
       "price": "650.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Áo len nam phom Regular Fit suông nhẹ, vừa vặn với cơ thể, đem lại cảm giác thoải mái, tự do khi mặc. \n- Áo thiết kế cổ tròn basic, dệt hình thoi thời thượng, màu sắc đa dạng, đem đến nhiều lựa chọn kết hợp trang phục khác nhau. \nCHẤT LIỆU: \n- 55% Acrylic đem tới sự ấm áp tuyệt vời đồng thời vẫn có bề mặt vải êm nhẹ. \n- 45% Cotton giúp áo mềm mại, xốp nhẹ và thoáng khí.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Cam", "Ghi", "Xanh Tím Than"],
       "img": "/assets/ao/AWO005W1.jpg",
@@ -164,7 +249,11 @@
       "catId": 1,
       "name": "Áo thun dài tay ALT009W2",
       "price": "395.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Body Fit \nTHIẾT KẾ: \n- Áo gữ nhiệt phom dáng Body Fit ôm sát cơ thể, gọn gàng, thoải mái và giữ ấm tối đa khi mặc. \n- Áo thiết đơn giản với 2 gam màu trung tính đem lại nhiều lựa chọn kết hợp màu sắc và trang phục. \nCHẤT LIỆU: \n- 95% Heatmax giúp giữ ấm tối ưu với các loại sợi cao cấp, thông thoáng khí và mềm mại với da. \n- 5% Spandex giữ độ co giãn tốt, tạo sự thoải mái.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi", "Xanh Tím Than"],
       "img": "/assets/ao/ALT009W2.jpg",
@@ -175,7 +264,11 @@
       "catId": 1,
       "name": "Áo thun dài tay ALT003W2",
       "price": "450.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Body Fit \nTHIẾT KẾ: \n- Áo gữ nhiệt phom dáng Body Fit ôm sát cơ thể, gọn gàng, thoải mái và giữ ấm tối đa khi mặc. \n- Áo thiết đơn giản với 2 gam màu trung tính đem lại nhiều lựa chọn kết hợp màu sắc và trang phục. \nCHẤT LIỆU: \n- 95% Heatmax giúp giữ ấm tối ưu với các loại sợi cao cấp, thông thoáng khí và mềm mại với da. \n- 5% Spandex giữ độ co giãn tốt, tạo sự thoải mái.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi", "Xanh Tím Than"],
       "img": "/assets/ao/ALT003W2.jpg",
@@ -186,7 +279,11 @@
       "catId": 1,
       "name": "Áo thun dài tay ALT008W2",
       "price": "450.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Body Fit \nTHIẾT KẾ: \n- Áo gữ nhiệt phom dáng Body Fit ôm sát cơ thể, gọn gàng, thoải mái và giữ ấm tối đa khi mặc. \n- Áo thiết đơn giản với 2 gam màu trung tính đem lại nhiều lựa chọn kết hợp màu sắc và trang phục. \nCHẤT LIỆU: \n- 95% Heatmax giúp giữ ấm tối ưu với các loại sợi cao cấp, thông thoáng khí và mềm mại với da. \n- 5% Spandex giữ độ co giãn tốt, tạo sự thoải mái.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi", "Trắng", "Vàng"],
       "img": "/assets/ao/ALT008W2.jpg",
@@ -197,7 +294,11 @@
       "catId": 1,
       "name": "Áo thun dài tay ALT006W2",
       "price": "495.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Body Fit \nTHIẾT KẾ: \n- Áo gữ nhiệt phom dáng Body Fit ôm sát cơ thể, gọn gàng, thoải mái và giữ ấm tối đa khi mặc. \n- Áo thiết đơn giản với 2 gam màu trung tính đem lại nhiều lựa chọn kết hợp màu sắc và trang phục. \nCHẤT LIỆU: \n- 95% Heatmax giúp giữ ấm tối ưu với các loại sợi cao cấp, thông thoáng khí và mềm mại với da. \n- 5% Spandex giữ độ co giãn tốt, tạo sự thoải mái.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Đen", "Ghi"],
       "img": "/assets/ao/ALT006W2.jpg",
@@ -209,7 +310,11 @@
       "catId": 2,
       "name": "Quần short nam ASO010S3",
       "price": "695.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Quần short âu phom dáng regular fit với độ suông rộng vừa phải, tạo nên sự thoải mái trong mọi hoạt động. \n- Quần được thiết kế cơ bản với tông màu trung tính, giúp các anh dễ dàng phối hợp với nhiều kiểu trang phục khác nhau, mang lại diện mạo khỏe khoắn, trẻ trung khi mặc. \nCHẤT LIỆU: \n- 92% Polyester mang đến độ bóng sắc nét, không bị bai dão, luôn bền màu. Quần còn có khả năng chống bám bụi, chống nhăn, hạn chế thấm nước, độ bền cao. \n- 8% Spandex tăng khả năng co giãn cho quần.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Be"],
       "img": "/assets/quan/ASO010S3.jpg",
@@ -221,7 +326,11 @@
       "catId": 2,
       "name": "Quần short nam ASO009S3",
       "price": "570.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Quần short âu phom dáng regular fit với độ suông rộng vừa phải, tạo nên sự thoải mái trong mọi hoạt động. \n- Quần được thiết kế cơ bản với tông màu trung tính, giúp các anh dễ dàng phối hợp với nhiều kiểu trang phục khác nhau, mang lại diện mạo khỏe khoắn, trẻ trung khi mặc. \nCHẤT LIỆU: \n- 92% Polyester mang đến độ bóng sắc nét, không bị bai dão, luôn bền màu. Quần còn có khả năng chống bám bụi, chống nhăn, hạn chế thấm nước, độ bền cao. \n- 8% Spandex tăng khả năng co giãn cho quần.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Be", "Xám"],
       "img": "/assets/quan/ASO009S3.jpg",
@@ -233,7 +342,11 @@
       "catId": 2,
       "name": "Quần short nam ASO025S3",
       "price": "450.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Quần short âu phom dáng regular fit với độ suông rộng vừa phải, tạo nên sự thoải mái trong mọi hoạt động. \n- Quần được thiết kế cơ bản với tông màu trung tính, giúp các anh dễ dàng phối hợp với nhiều kiểu trang phục khác nhau, mang lại diện mạo khỏe khoắn, trẻ trung khi mặc. \nCHẤT LIỆU: \n- 92% Polyester mang đến độ bóng sắc nét, không bị bai dão, luôn bền màu. Quần còn có khả năng chống bám bụi, chống nhăn, hạn chế thấm nước, độ bền cao. \n- 8% Spandex tăng khả năng co giãn cho quần.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Ghi", "Xanh"],
       "img": "/assets/quan/ASO025S3.jpg",
@@ -245,7 +358,11 @@
       "catId": 2,
       "name": "Quần short nam ASO017S3",
       "price": "495.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Regular Fit \nTHIẾT KẾ: \n- Quần short âu phom dáng regular fit với độ suông rộng vừa phải, tạo nên sự thoải mái trong mọi hoạt động. \n- Quần được thiết kế cơ bản với tông màu trung tính, giúp các anh dễ dàng phối hợp với nhiều kiểu trang phục khác nhau, mang lại diện mạo khỏe khoắn, trẻ trung khi mặc. \nCHẤT LIỆU: \n- 92% Polyester mang đến độ bóng sắc nét, không bị bai dão, luôn bền màu. Quần còn có khả năng chống bám bụi, chống nhăn, hạn chế thấm nước, độ bền cao. \n- 8% Spandex tăng khả năng co giãn cho quần.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Ghi", "Xám"],
       "img": "/assets/quan/ASO017S3.jpg",
@@ -257,7 +374,11 @@
       "catId": 2,
       "name": "Quần âu ATR00303",
       "price": "750.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ: \n- Quần âu phom Slim Fit ôm nhẹ vừa vặn mà vẫn thoải mái vận động. \n- Quần thiết kế cơ bản, màu sắc trung tính họa tiết kẻ chìm, dễ dàng kết hợp với nhiều loại trang phục, đem lại diện mạo lịch lãm và tự tin cho người mặc. \nCHẤT LIỆU: \n- 72% Polyester giúp quần bền màu, sắc nét, mặt vải trơn trượt, mỏng nhẹ. \n- 26% Rayon giúp quần có độ mềm mại, mát mẻ và bay rũ tự nhiên. \n- 2% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Ghi"],
       "img": "/assets/quan/ATR00303.jpg",
@@ -269,7 +390,11 @@
       "catId": 2,
       "name": "Quần âu ATR00803",
       "price": "895.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ: \n- Quần âu phom Slim Fit ôm nhẹ vừa vặn mà vẫn thoải mái vận động. \n- Quần thiết kế cơ bản, màu sắc trung tính họa tiết kẻ chìm, dễ dàng kết hợp với nhiều loại trang phục, đem lại diện mạo lịch lãm và tự tin cho người mặc. \nCHẤT LIỆU: \n- 72% Polyester giúp quần bền màu, sắc nét, mặt vải trơn trượt, mỏng nhẹ. \n- 26% Rayon giúp quần có độ mềm mại, mát mẻ và bay rũ tự nhiên. \n- 2% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Xanh Tím Than", "Ghi"],
       "img": "/assets/quan/ATR00803.jpg",
@@ -281,7 +406,11 @@
       "catId": 2,
       "name": "Quần âu nam ATR00503",
       "price": "750.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ: \n- Quần âu phom Slim Fit ôm nhẹ vừa vặn mà vẫn thoải mái vận động. \n- Quần thiết kế cơ bản, màu sắc trung tính họa tiết kẻ chìm, dễ dàng kết hợp với nhiều loại trang phục, đem lại diện mạo lịch lãm và tự tin cho người mặc. \nCHẤT LIỆU: \n- 72% Polyester giúp quần bền màu, sắc nét, mặt vải trơn trượt, mỏng nhẹ. \n- 26% Rayon giúp quần có độ mềm mại, mát mẻ và bay rũ tự nhiên. \n- 2% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Ghi", "Xanh Tím Than"],
       "img": "/assets/quan/ATR00503.jpg",
@@ -293,7 +422,11 @@
       "catId": 2,
       "name": "Quần âu nam ATR00203",
       "price": "895.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ: \n- Quần âu phom Slim Fit ôm nhẹ vừa vặn mà vẫn thoải mái vận động. \n- Quần thiết kế cơ bản, màu sắc trung tính họa tiết kẻ chìm, dễ dàng kết hợp với nhiều loại trang phục, đem lại diện mạo lịch lãm và tự tin cho người mặc. \nCHẤT LIỆU: \n- 72% Polyester giúp quần bền màu, sắc nét, mặt vải trơn trượt, mỏng nhẹ. \n- 26% Rayon giúp quần có độ mềm mại, mát mẻ và bay rũ tự nhiên. \n- 2% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Xanh Tím Than"],
       "img": "/assets/quan/ATR00203.jpg",
@@ -305,7 +438,11 @@
       "catId": 2,
       "name": "Quần jeans AJN00203",
       "price": "895.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ:- Quần jeans phom Slim fit với độ ôm vừa vặn giúp tôn dáng đôi chân mà vẫn thoải mái vận động. \n- Quần có túi xẻ 2 bên và túi sau tiện lợi. Thiết kế basic dễ dàng kết hợp với trang phục khác. Màu sắc nam tính mang đến diện mạo trẻ trung cho người mặc. \nCHẤT LIỆU: \n- 98.5% Cotton giúp quần mềm mại, xốp nhẹ và thoáng khí. \n- 1.5% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Xanh"],
       "img": "/assets/quan/AJN00203.jpg",
@@ -317,7 +454,11 @@
       "catId": 2,
       "name": "Quần jeans nam AJN01103",
       "price": "950.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ:- Quần jeans phom Slim fit với độ ôm vừa vặn giúp tôn dáng đôi chân mà vẫn thoải mái vận động. \n- Quần có túi xẻ 2 bên và túi sau tiện lợi. Thiết kế basic dễ dàng kết hợp với trang phục khác. Màu sắc nam tính mang đến diện mạo trẻ trung cho người mặc. \nCHẤT LIỆU: \n- 98.5% Cotton giúp quần mềm mại, xốp nhẹ và thoáng khí. \n- 1.5% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Xanh"],
       "img": "/assets/quan/AJN01103.jpg",
@@ -329,7 +470,11 @@
       "catId": 2,
       "name": "Quần jeans AJNR04",
       "price": "895.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ:- Quần jeans phom Slim fit với độ ôm vừa vặn giúp tôn dáng đôi chân mà vẫn thoải mái vận động. \n- Quần có túi xẻ 2 bên và túi sau tiện lợi. Thiết kế basic dễ dàng kết hợp với trang phục khác. Màu sắc nam tính mang đến diện mạo trẻ trung cho người mặc. \nCHẤT LIỆU: \n- 98.5% Cotton giúp quần mềm mại, xốp nhẹ và thoáng khí. \n- 1.5% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Xanh"],
       "img": "/assets/quan/AJNR04.jpg",
@@ -341,7 +486,11 @@
       "catId": 2,
       "name": "Quần jeans nam AJN04202",
       "price": "750.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Slim fit \nTHIẾT KẾ:- Quần jeans phom Slim fit với độ ôm vừa vặn giúp tôn dáng đôi chân mà vẫn thoải mái vận động. \n- Quần có túi xẻ 2 bên và túi sau tiện lợi. Thiết kế basic dễ dàng kết hợp với trang phục khác. Màu sắc nam tính mang đến diện mạo trẻ trung cho người mặc. \nCHẤT LIỆU: \n- 98.5% Cotton giúp quần mềm mại, xốp nhẹ và thoáng khí. \n- 1.5% Spandex tạo độ co giãn thoải mái khi mặc.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["27", "28", "29", "30", "31", "32", "33"],
       "color": ["Đen", "Xanh", "Xám"],
       "img": "/assets/quan/AJN04202.jpg",
@@ -353,7 +502,11 @@
       "catId": 3,
       "name": "Giày lười da ASHR41",
       "price": "5.250.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Mocassin \nTHIẾT KẾ: \n- Giày lười da nam Moccasin màu đen ôm chân, vừa vặn đem lại cảm giác thoải mái tuyệt đối. \n- Giày thiết kế dập vân hạt thanh lịch. Đế giày đúc họa tiết Aristino ma sát tốt, chống trơn trượt \nCHẤT LIỆU: \n- Chất liệu da bò nhập khẩu cao cấp, mềm mại khi sử dụng. Da được xử lý tỉ mỉ, không xảy ra hiện tượng nổ da. Bề mặt da có độ bóng tự nhiên, bền chắc, giữ form, dễ dàng vệ sinh và bảo quản.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["39", "40", "41", "42", "43"],
       "color": ["Đen"],
       "img": "/assets/phu_kien/ASHR41.jpg",
@@ -365,7 +518,11 @@
       "catId": 3,
       "name": "Giày da ASHR22",
       "price": "5.250.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Mocassin \nTHIẾT KẾ: \n- Giày lười da nam Moccasin màu đen ôm chân, vừa vặn đem lại cảm giác thoải mái tuyệt đối. \n- Giày thiết kế dập vân hạt thanh lịch. Đế giày đúc họa tiết Aristino ma sát tốt, chống trơn trượt \nCHẤT LIỆU: \n- Chất liệu da bò nhập khẩu cao cấp, mềm mại khi sử dụng. Da được xử lý tỉ mỉ, không xảy ra hiện tượng nổ da. Bề mặt da có độ bóng tự nhiên, bền chắc, giữ form, dễ dàng vệ sinh và bảo quản.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["39", "40", "41", "42", "43"],
       "color": ["Đen"],
       "img": "/assets/phu_kien/ASHR22.jpg",
@@ -377,7 +534,11 @@
       "catId": 3,
       "name": "Giày thể thao ASH06602",
       "price": "4.500.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Sneaker \nTHIẾT KẾ: \n- Giày thể thao nam thiết kế khỏe khoắn, màu sắc trẻ trung, cùng logo tinh tế ở thân giày giúp quý ông khoác lên mình vẻ lịch lãm, hiện đại. \n- Đế giày EVA siêu nhẹ, độ bền cao, hấp thụ lực tốt, bảo vệ bàn chân và các khớp. Lớp Rubber Silicone tăng độ bám giúp tự tin trên từng bước đi. \nCHẤT LIỆU: \n- Chất liệu da lộn nhập khẩu cao cấp mang tới sự thông thoáng, phù hợp đi làm đi chơi.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["39", "40", "41", "42", "43"],
       "color": ["Đen", "Xanh Tím Than"],
       "img": "/assets/phu_kien/ASH06602.jpg",
@@ -389,7 +550,11 @@
       "catId": 3,
       "name": "Giày thể thao ASH06201",
       "price": "2.250.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Sneaker \nTHIẾT KẾ: \n- Giày thể thao nam thiết kế khỏe khoắn, màu sắc trẻ trung, cùng logo tinh tế ở thân giày giúp quý ông khoác lên mình vẻ lịch lãm, hiện đại. \n- Đế giày EVA siêu nhẹ, độ bền cao, hấp thụ lực tốt, bảo vệ bàn chân và các khớp. Lớp Rubber Silicone tăng độ bám giúp tự tin trên từng bước đi. \nCHẤT LIỆU: \n- Chất liệu da lộn nhập khẩu cao cấp mang tới sự thông thoáng, phù hợp đi làm đi chơi.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["39", "40", "41", "42", "43"],
       "color": ["Đen"],
       "img": "/assets/phu_kien/ASH06201.jpg",
@@ -401,7 +566,11 @@
       "catId": 3,
       "name": "Ví da nam ATWR02 kiểu dáng dài",
       "price": "4.850.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Dài \nTHIẾT KẾ: \n- Ví da nam được thiết kế gọn nhẹ, nhiều ngăn nhỏ tiện lợi khi sử dụng. \n- Bề mặt vân hạt, logo Aristino bằng kim loại dập nổi mang đến sự sang trọng và đẳng cấp. \nCHẤT LIỆU: \n- Chất liệu da bò nhập khẩu cao cấp, không phủ hóa chất nên có độ mềm mại, thoáng khí và đàn hồi tốt, hạn chế tối đa tình trạng nổ da, giữ sản phẩm bền và mới sau thời gian dài sử dụng.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Đen"],
       "img": "/assets/phu_kien/ATWR02.jpg",
 
@@ -412,7 +581,11 @@
       "catId": 3,
       "name": "Ví da nam AWER02 kiểu dáng ngang",
       "price": "1.250.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Ngang \nTHIẾT KẾ: \n- Ví da nam được thiết kế gọn nhẹ, nhiều ngăn nhỏ tiện lợi khi sử dụng. \n- Bề mặt vân hạt, logo Aristino bằng kim loại dập nổi mang đến sự sang trọng và đẳng cấp. \nCHẤT LIỆU: \n- Chất liệu da bò nhập khẩu cao cấp, không phủ hóa chất nên có độ mềm mại, thoáng khí và đàn hồi tốt, hạn chế tối đa tình trạng nổ da, giữ sản phẩm bền và mới sau thời gian dài sử dụng.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Đen", "Xanh Tím Than"],
       "img": "/assets/phu_kien/AWER02.jpg",
 
@@ -423,7 +596,11 @@
       "catId": 3,
       "name": "Thắt lưng ABL08302 màu Bạc- Đen",
       "price": "1.950.000đ",
+<<<<<<< HEAD
       "description": "THIẾT KẾ: \n- Thắt lưng da cao cấp màu đen, bề mặt dập vân trơn tối giản, tinh tế, có thể kết hợp với nhiều loại trang phục khác nhau, đặc biệt phù hợp với trang phục công sở lịch sự, chỉn chu. \n- Mặt dây làm từ thép không rỉ mạ màu bạc tươi sáng,. Mặt kim đơn giản, chắc chắn với kết cấu xoay đặc biệt có thể chuyển đổi nhanh giữa hai mặt dây giúp điều chỉnh dây lưng tiện lợi. \nCHẤT LIỆU: \n- Mặt trên dây lưng làm từ chất liệu da bò cao cấp được nhập khẩu và xử lý tỉ mỉ, không xảy ra hiện tượng nổ da. Bề mặt da có độ bóng tự nhiên, bền chắc và mềm mại hơn sau thời gian dài sử dụng.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Bạc- Đen"],
       "img": "/assets/phu_kien/ABL08302.jpg",
 
@@ -434,7 +611,11 @@
       "catId": 3,
       "name": "Thắt lưng ABL04109 màu Bạc-Navy",
       "price": "1.500.000đ",
+<<<<<<< HEAD
       "description": "THIẾT KẾ: \n- Thắt lưng da cao cấp màu đen, bề mặt dập vân trơn tối giản, tinh tế, có thể kết hợp với nhiều loại trang phục khác nhau, đặc biệt phù hợp với trang phục công sở lịch sự, chỉn chu. \n- Mặt dây làm từ thép không rỉ mạ màu bạc tươi sáng,. Mặt kim đơn giản, chắc chắn với kết cấu xoay đặc biệt có thể chuyển đổi nhanh giữa hai mặt dây giúp điều chỉnh dây lưng tiện lợi. \nCHẤT LIỆU: \n- Mặt trên dây lưng làm từ chất liệu da bò cao cấp được nhập khẩu và xử lý tỉ mỉ, không xảy ra hiện tượng nổ da. Bề mặt da có độ bóng tự nhiên, bền chắc và mềm mại hơn sau thời gian dài sử dụng.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Đen", "Nâu"],
       "img": "/assets/phu_kien/ABL04109.jpg",
 
@@ -446,7 +627,11 @@
       "catId": 3,
       "name": "DÉP ADIDAS COMFORT Có In Logo Họa Tiết",
       "price": "1.000.000₫",
+<<<<<<< HEAD
       "description": "FORM DÁNG: \nSlip-on \nTHIẾT KẾ: \nQuai ngang \nCHẤT LIỆU: \n-EVA sinh học chứa 25% hàm lượng thực vật có nguồn gốc từ mía. \n-Sử dụng tối thiểu 50% chất liệu tự nhiên và có thể tái tạo.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["39", "40", "41", "42", "43"],
       "color": ["Đen", "Trắng"],
       "img": "/assets/phu_kien/COMFORT.jpg",
@@ -458,7 +643,11 @@
       "catId": 3,
       "name": "DÉP QUAI NGANG TÙY CHỈNH ADIDAS COMFORT ",
       "price": "1.250.000₫",
+<<<<<<< HEAD
       "description": "FORM DÁNG: \nSlip-on \nTHIẾT KẾ: \nQuai ngang \nCHẤT LIỆU: \n-EVA sinh học chứa 25% hàm lượng thực vật có nguồn gốc từ mía. \n-Sử dụng tối thiểu 50% chất liệu tự nhiên và có thể tái tạo.",
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "size": ["39", "40", "41", "42", "43"],
       "color": ["Đen", "Trắng"],
       "img": "/assets/phu_kien/DÉP QUAI NGANG TÙY CHỈNH ADIDAS COMFORT.jpg",
@@ -470,8 +659,12 @@
       "catId": 3,
       "name": "Cà vạt ATI08602 ô vuông chấm trắng",
       "price": "350.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Cà vạt bản nhỏ \nTHIẾT KẾ: \n- Cà vạt nam bản nhỏ lịch lãm mà thời thượng, phù hợp với nhiều đối tượng khác nhau và có thể ứng dụng trong nhiều hoàn cảnh khác nhau. \n- Thiết kế thời trang với màu sắc sang trọng kết hợp họa tiết ô vuông dệt jacquard nam tính tạo điểm nhấn ấn tượng cho bộ trang phục. \nCHẤT LIỆU: - 100% Polyester mang đến độ bóng sắc nét, không bị bai dão, luôn bền màu. Cà vạt có khả năng chống bám bụi, chống nhăn, hạn chế thấm nước, độ bền cao.",
       "size": ["0"],
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Đen", "Xanh Tím Than"],
       "img": "/assets/phu_kien/ATI08602.jpg",
       "blurImg": "/assets/blurImg/ATI08602 .jpg"
@@ -481,8 +674,12 @@
       "catId": 3,
       "name": "Cà vạt ATI08502 hoa trắng chấm trắng",
       "price": "350.000đ",
+<<<<<<< HEAD
       "description": "FORM DÁNG: Cà vạt bản nhỏ \nTHIẾT KẾ: \n- Cà vạt nam bản nhỏ lịch lãm mà thời thượng, phù hợp với nhiều đối tượng khác nhau và có thể ứng dụng trong nhiều hoàn cảnh khác nhau. \n- Thiết kế thời trang với màu sắc sang trọng kết hợp họa tiết ô vuông dệt jacquard nam tính tạo điểm nhấn ấn tượng cho bộ trang phục. \nCHẤT LIỆU: - 100% Polyester mang đến độ bóng sắc nét, không bị bai dão, luôn bền màu. Cà vạt có khả năng chống bám bụi, chống nhăn, hạn chế thấm nước, độ bền cao.",
       "size": ["0"],
+=======
+      "description": "",
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
       "color": ["Đỏ", "Xanh Tím Than"],
       "img": "/assets/phu_kien/ATI08502.jpg",
       "blurImg": "/assets/blurImg/ATI08502.jpg"

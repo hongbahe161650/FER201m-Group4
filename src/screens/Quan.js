@@ -2,7 +2,10 @@ import DefaultLayout from "../layouts/DefaultLayout";
 import Card from "react-bootstrap/Card";
 import { useState, useEffect } from "react";
 import data from "../data/database.json";
+<<<<<<< HEAD
 import { Container, Row, Col } from "react-bootstrap";
+=======
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
 
 const Ao = () => {
   const [originalProduct, setOriginalProduct] = useState([]);
@@ -33,6 +36,7 @@ const Ao = () => {
   };
 
   return (
+<<<<<<< HEAD
     <DefaultLayout>
       <Container>
         <div className="button-container">
@@ -83,6 +87,42 @@ const Ao = () => {
             ))}
         </Row>
       </Container>
+=======
+    <DefaultLayout className="container">
+      <div className="Product-content">
+      <h2>QUẦN</h2>
+        <button onClick={() => handleClick("short")}>Quần Short</button>
+        <button onClick={() => handleClick("âu")}>Quần Âu</button>
+        <button onClick={() => handleClick("jean")}>Quần Jean</button>
+      </div>
+      <br />
+      <div className="row">
+        {filteredProduct
+          .filter((product) =>
+            product.name.toLowerCase().includes("Quần".toLowerCase())
+          )
+          .map((product) => (
+            <div
+              key={product.id}
+              className="col-md-3"
+              onMouseEnter={(event) => handleMouseEnter(event, product)}
+              onMouseLeave={(event) => handleMouseLeave(event, product)}
+            >
+              <Card className="card-content">
+                <div className="blurry-image">
+                  <Card.Img  src={product.img} />
+                </div>
+                <Card.Body>
+                  <Card.Text style={{ fontWeight: "500" }}>
+                    {product.name}
+                  </Card.Text>
+                  <Card.Title>{product.price}</Card.Title>
+                </Card.Body>
+              </Card>
+            </div>
+          ))}
+      </div>
+>>>>>>> 1da8130ca209d89722ac281df640106058d92e8b
     </DefaultLayout>
   );
 };
