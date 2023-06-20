@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const QuantityButton = ({ onChange }) => {
+const QuantityButton = ({ onChange}) => {
   const [quantity, setQuantity] = useState(1);
 
   const handleIncrement = () => {

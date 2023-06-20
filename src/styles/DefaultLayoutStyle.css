@@ -152,6 +152,34 @@ ul.select_product_color, ul.select_product_size {
   opacity: 0.8;
 }
 
+/* product-cart */
+.product_cart {
+  /* position: fixed;
+  top: 60px;
+  right: 10px;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  z-index: 9999; */
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 422px;
+  height: 100%;
+  background-color: #fff;
+  z-index: 9999;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.cart_total {
+  padding: 30px;
+  position: fixed;
+  width: 490px;
+  bottom: 0;
+}
 
 
 
