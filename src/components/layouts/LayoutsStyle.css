@@ -1,0 +1,40 @@
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  pointer-events: none;
+}
+
+li {
+  border-bottom: 1px solid rgb(155, 147, 147);
+}
+
+li:hover {
+  opacity: 0.5;
+}
+
+a {
+  font-size: large;
+}
+
+.product-list-header {
+  font-size: large;
+  font-weight: 650;
+}
+.sticky-nav {
+  position: fixed;
+  position: sticky;
+  top: 0;
+}
+.bg-body-tertiary {
+
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.swiper {
+  width: auto;
+  height: 300px;
+}
